@@ -1,8 +1,8 @@
 # Bay Ridge Restaurant Guide
-## Asian --> Thai
+## Asian
 ---
 Select a restaurant:
-## Glow Thai http://www.glowthairestaurant.com/
+## [Glow Thai] (http://www.glowthairestaurant.com/)
 ---
 Back to Asian
 [Start Over](../home.md)
